@@ -1,27 +1,90 @@
-# Hi 👋, I'm chandan kumar
+<h1 align="center">Hey there! I'm Chandan Kumar 👋</h1>
 
-### A passionate Javascript developer
+<h3 align="center">🚀 Passionate JavaScript & Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=corno25kumar-creator&label=Profile views&color=0e75b6&style=flat" alt="corno25kumar-creator" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corno25kumar-creator" alt="corno25kumar-creator" /></a> </p>
-
-- 📫 How to reach me **kumarcj991039@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://corno-protifilio-5idu.onrender.com](https://corno-protifilio-5idu.onrender.com)**
-
-- 📝 I regularly write articles on **[https://hashnode.com/@chandan819](https://hashnode.com/@chandan819)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/corno25kumar-creator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="corno25kumar-creator" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-kumar" height="30" width="40" /></a>
-<a href="https://medium.com/@chandan819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chandan819" height="30" width="40" /></a>
-<a href="https://leetcode.com/corno30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="corno30" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=corno25kumar-creator&label=Profile%20views&color=0e75b6&style=flat" alt="corno25kumar-creator" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=corno25kumar-creator&" alt="corno25kumar-creator" /></p>
+## 👨‍💻 About Me
 
+- 💻 Full-Stack JavaScript Developer
+- 🔥 Currently building with GraphQL, Apollo & MERN Stack
+- 📚 Constantly learning Backend Architecture & System Design
+- 🎯 Goal: Become a High-Level Software Engineer
+- 🧠 Love solving DSA & building real-world projects
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,redis" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corno25kumar-creator&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=corno25kumar-creator&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corno25kumar-creator&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/corno25kumar-creator" target="blank">
+<img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/chandan-kumar" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+
+<a href="https://medium.com/@chandan819" target="blank">
+<img src="https://skillicons.dev/icons?i=medium" width="40" />
+</a>
+
+<a href="https://leetcode.com/corno30" target="blank">
+<img src="https://skillicons.dev/icons?i=leetcode" width="40" />
+</a>
+</p>
+
+---
+
+## 📬 Contact
+
+📧 Email: **kumarcj991039@gmail.com**
+
+🌍 Portfolio:  
+👉 https://corno-protifilio-5idu.onrender.com  
+
+📝 Articles:  
+👉 https://hashnode.com/@chandan819  
+
+---
+
+⭐️ From [Chandan Kumar](https://github.com/corno25kumar-creator)
