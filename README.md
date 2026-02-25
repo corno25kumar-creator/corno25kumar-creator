@@ -27,7 +27,7 @@
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,redis" />
 </p>
 
 ### 🧰 Tools & DevOps
