@@ -51,15 +51,12 @@
 <a href="https://github.com/corno25kumar-creator" target="blank">
 <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
-
 <a href="https://linkedin.com/in/chandan-kumar" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
-
 <a href="https://hashnode.com/@chandan819" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.simpleicons.org/hashnode" width="40" />
-</a>>
-
+</a>
 <a href="https://leetcode.com/corno30" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.simpleicons.org/leetcode" width="40" />
 </a>
