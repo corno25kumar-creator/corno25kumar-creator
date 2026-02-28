@@ -43,14 +43,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=corno25kumar-creator&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corno25kumar-creator&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corno25kumar-creator&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -64,12 +56,12 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 
-<a href="https://medium.com/@chandan819" target="blank">
-<img src="https://skillicons.dev/icons?i=medium" width="40" />
-</a>
+<a href="https://hashnode.com/@chandan819" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/hashnode" width="40" />
+</a>>
 
-<a href="https://leetcode.com/corno30" target="blank">
-<img src="https://skillicons.dev/icons?i=leetcode" width="40" />
+<a href="https://leetcode.com/corno30" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/leetcode" width="40" />
 </a>
 </p>
 
