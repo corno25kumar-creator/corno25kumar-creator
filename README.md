@@ -1,79 +1,47 @@
-<h1 align="center">Hey there! I'm Chandan Kumar 👋</h1>
+# Hi, I'm Chandan 👋
 
-<h3 align="center">🚀 Passionate JavaScript & Full-Stack Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=corno25kumar-creator&label=Profile%20views&color=0e75b6&style=flat" alt="corno25kumar-creator" />
-</p>
+Full Stack Developer with two deployed systems — a developer productivity platform and a real-time interview platform — built end-to-end from architecture to deployment.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Projects
 
-- 💻 Full-Stack JavaScript Developer
-- 🔥 Currently building with GraphQL, Apollo & MERN Stack
-- 📚 Constantly learning Backend Architecture & System Design
-- 🎯 Goal: Become a High-Level Software Engineer
-- 🧠 Love solving DSA & building real-world projects
+### DevPulse — Developer Productivity Platform
+
+A full-stack system for tracking coding sessions, managing goals, and measuring skill growth through an XP-based progression model.
+
+- 48+ REST APIs covering authentication, sessions, goals, and user workflows
+- JWT authentication with token refresh and secure cookie handling
+- Live session tracking with client-side state management
+
+**Stack:** React, TypeScript, Node.js, Express, MongoDB, zustand, TanStack Query, Zod, Tailwind CSS  
+🔗 [Live](https://devpluse.onrender.com) · [Repo](https://github.com/chandan-kumar-jha/devPluse)
+
+---
+
+### Colab2 — Real-Time Technical Interview Platform
+
+A real-time system for conducting technical interviews with collaborative coding and live communication.
+
+- VSCode-like editor with real-time interaction
+- Video interview system with screen sharing and recording
+- Isolated code execution with test-case evaluation
+- Event-driven async workflows using Inngest
+
+**Stack:** React, TypeScript, Node.js, Express, MongoDB, Clerk, Stream, Inngest  
+🔗 [Live](https://collab2-jcux.onrender.com) · [Repo](https://github.com/chandan-kumar-jha/collab2)
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,redis" />
-</p>
-
-### 🧰 Tools & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode" />
-</p>
+**Frontend:** React, TypeScript, Tailwind CSS, Redux Toolkit, TanStack Query  
+**Backend:** Node.js, Express, REST APIs, JWT, Zod  
+**Database:** MongoDB, Mongoose  
+**Deployment:** Render, MongoDB Atlas
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corno25kumar-creator&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/corno25kumar-creator" target="blank">
-<img src="https://skillicons.dev/icons?i=github" width="40" />
-</a>
-<a href="https://linkedin.com/in/chandan-kumar" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-<a href="https://hashnode.com/@chandan819" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/hashnode" width="40" />
-</a>
-<a href="https://leetcode.com/corno30" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/leetcode" width="40" />
-</a>
-</p>
-
----
-
-## 📬 Contact
-
-📧 Email: **kumarcj991039@gmail.com**
-
-🌍 Portfolio:  
-👉 https://corno-protifilio-5idu.onrender.com  
-
-📝 Articles:  
-👉 https://hashnode.com/@chandan819  
-
----
-
-⭐️ From [Chandan Kumar](https://github.com/corno25kumar-creator)
+[LinkedIn](https://www.linkedin.com/in/chandankumarjha98) · [Email](mailto:chandankumar9910cs@gmail.com)
